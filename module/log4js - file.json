@@ -1,0 +1,17 @@
+{
+    "appenders": [{
+        "type": "console",
+        "category": "console"
+    }, {
+        "type": "file",
+        "filename": "./logs/",
+        "filename": "logs/app.log",
+        "maxLogSize": 204800,
+        "backups": 10,
+        "category": "logInfo"
+    }],
+    "replaceConsole": true,
+    "levels": {
+        "logInfo": "debug"
+    }
+}

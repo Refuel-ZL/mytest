@@ -1,0 +1,78 @@
+[2017-06-23 10:35:03.537] [INFO] logInfo - 中间件
+[2017-06-23 10:35:03.543] [INFO] logInfo - { name: 'Chen-xy', age: '22', address: 'bj' }
+[2017-06-23 10:35:03.563] [DEBUG] logInfo - GET /
+[2017-06-23 10:35:03.574] [INFO] logInfo - 中间件
+[2017-06-23 10:35:03.578] [DEBUG] logInfo - GET /stylesheets/style.css
+[2017-06-23 10:35:04.429] [INFO] logInfo - 中间件
+[2017-06-23 10:35:04.429] [INFO] logInfo - { name: 'Chen-xy', age: '22', address: 'bj' }
+[2017-06-23 10:35:04.433] [DEBUG] logInfo - GET /
+[2017-06-23 10:35:04.443] [INFO] logInfo - 中间件
+[2017-06-23 10:35:04.445] [DEBUG] logInfo - GET /stylesheets/style.css
+[2017-06-23 10:35:04.718] [INFO] logInfo - 中间件
+[2017-06-23 10:35:04.718] [INFO] logInfo - { name: 'Chen-xy', age: '22', address: 'bj' }
+[2017-06-23 10:35:04.722] [DEBUG] logInfo - GET /
+[2017-06-23 10:35:04.732] [INFO] logInfo - 中间件
+[2017-06-23 10:35:04.734] [DEBUG] logInfo - GET /stylesheets/style.css
+[2017-06-23 10:35:04.892] [INFO] logInfo - 中间件
+[2017-06-23 10:35:04.892] [INFO] logInfo - { name: 'Chen-xy', age: '22', address: 'bj' }
+[2017-06-23 10:35:04.893] [DEBUG] logInfo - GET /
+[2017-06-23 10:35:04.908] [INFO] logInfo - 中间件
+[2017-06-23 10:35:04.910] [DEBUG] logInfo - GET /stylesheets/style.css
+[2017-06-23 10:35:05.053] [INFO] logInfo - 中间件
+[2017-06-23 10:35:05.053] [INFO] logInfo - { name: 'Chen-xy', age: '22', address: 'bj' }
+[2017-06-23 10:35:05.055] [DEBUG] logInfo - GET /
+[2017-06-23 10:35:05.065] [INFO] logInfo - 中间件
+[2017-06-23 10:35:05.066] [DEBUG] logInfo - GET /stylesheets/style.css
+[2017-06-23 10:35:05.215] [INFO] logInfo - 中间件
+[2017-06-23 10:35:05.215] [INFO] logInfo - { name: 'Chen-xy', age: '22', address: 'bj' }
+[2017-06-23 10:35:05.217] [DEBUG] logInfo - GET /
+[2017-06-23 10:35:05.226] [INFO] logInfo - 中间件
+[2017-06-23 10:35:05.227] [DEBUG] logInfo - GET /stylesheets/style.css
+[2017-06-23 10:35:05.391] [INFO] logInfo - 中间件
+[2017-06-23 10:35:05.392] [INFO] logInfo - { name: 'Chen-xy', age: '22', address: 'bj' }
+[2017-06-23 10:35:05.394] [DEBUG] logInfo - GET /
+[2017-06-23 10:35:05.405] [INFO] logInfo - 中间件
+[2017-06-23 10:35:05.406] [DEBUG] logInfo - GET /stylesheets/style.css
+[2017-06-23 10:35:05.548] [INFO] logInfo - 中间件
+[2017-06-23 10:35:05.549] [INFO] logInfo - { name: 'Chen-xy', age: '22', address: 'bj' }
+[2017-06-23 10:35:05.551] [DEBUG] logInfo - GET /
+[2017-06-23 10:35:05.559] [INFO] logInfo - 中间件
+[2017-06-23 10:35:05.560] [DEBUG] logInfo - GET /stylesheets/style.css
+[2017-06-23 10:35:05.725] [INFO] logInfo - 中间件
+[2017-06-23 10:35:05.725] [INFO] logInfo - { name: 'Chen-xy', age: '22', address: 'bj' }
+[2017-06-23 10:35:05.726] [DEBUG] logInfo - GET /
+[2017-06-23 10:35:05.738] [INFO] logInfo - 中间件
+[2017-06-23 10:35:05.740] [DEBUG] logInfo - GET /stylesheets/style.css
+[2017-06-23 10:35:05.903] [INFO] logInfo - 中间件
+[2017-06-23 10:35:05.904] [INFO] logInfo - { name: 'Chen-xy', age: '22', address: 'bj' }
+[2017-06-23 10:35:05.906] [DEBUG] logInfo - GET /
+[2017-06-23 10:35:05.916] [INFO] logInfo - 中间件
+[2017-06-23 10:35:05.920] [DEBUG] logInfo - GET /stylesheets/style.css
+[2017-06-23 10:38:06.962] [INFO] logInfo - 中间件
+[2017-06-23 10:38:06.980] [DEBUG] logInfo - GET /users
+[2017-06-23 10:38:07.904] [INFO] logInfo - 中间件
+[2017-06-23 10:38:07.907] [DEBUG] logInfo - GET /users
+[2017-06-23 10:38:08.309] [INFO] logInfo - 中间件
+[2017-06-23 10:38:08.310] [DEBUG] logInfo - GET /users
+[2017-06-23 10:38:08.484] [INFO] logInfo - 中间件
+[2017-06-23 10:38:08.487] [DEBUG] logInfo - GET /users
+[2017-06-23 10:38:08.645] [INFO] logInfo - 中间件
+[2017-06-23 10:38:08.648] [DEBUG] logInfo - GET /users
+[2017-06-23 10:38:08.804] [INFO] logInfo - 中间件
+[2017-06-23 10:38:08.805] [DEBUG] logInfo - GET /users
+[2017-06-23 10:38:53.699] [INFO] logInfo - 中间件
+[2017-06-23 10:38:53.716] [DEBUG] logInfo - ::ffff:192.168.30.101 GET /users 304 20 ms
+[2017-06-23 10:39:25.823] [INFO] logInfo - 中间件
+[2017-06-23 10:39:25.827] [DEBUG] logInfo - ::ffff:127.0.0.1 GET /users 304 4 ms
+[2017-06-23 10:39:26.140] [INFO] logInfo - 中间件
+[2017-06-23 10:39:26.141] [DEBUG] logInfo - ::ffff:127.0.0.1 GET /users 304 3 ms
+[2017-06-23 10:39:26.290] [INFO] logInfo - 中间件
+[2017-06-23 10:39:26.302] [DEBUG] logInfo - ::ffff:127.0.0.1 GET /favicon.ico 404 10 ms
+[2017-06-23 10:40:02.026] [INFO] logInfo - 中间件
+[2017-06-23 10:40:02.042] [DEBUG] logInfo - ::ffff:127.0.0.1 GET /users 304 21 ms
+[2017-06-23 10:40:03.891] [INFO] logInfo - 中间件
+[2017-06-23 10:40:03.893] [DEBUG] logInfo - ::ffff:127.0.0.1 GET /users 304 4 ms
+[2017-06-23 10:40:08.280] [INFO] logInfo - 中间件
+[2017-06-23 10:40:08.286] [DEBUG] logInfo - ::ffff:127.0.0.1 GET /users 200 7 ms
+[2017-06-23 10:40:08.375] [INFO] logInfo - 中间件
+[2017-06-23 10:40:08.390] [DEBUG] logInfo - ::ffff:127.0.0.1 GET /favicon.ico 404 15 ms
